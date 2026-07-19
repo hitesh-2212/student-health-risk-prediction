@@ -1,5 +1,7 @@
 # 🏥 Student Health Risk Prediction
 
+## APP:- https://hitesh-2212-student-health-risk-predict-streamlit-appapp-zoqvmw.streamlit.app/
+
 An end-to-end Machine Learning project that predicts a student's health condition using lifestyle, physical activity, dietary habits, and physiological measurements.
 
 The project demonstrates the complete ML workflow—from data preprocessing and model development to deployment through a FastAPI backend and an interactive Streamlit application.
